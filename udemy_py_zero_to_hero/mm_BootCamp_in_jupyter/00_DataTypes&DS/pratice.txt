@@ -1,0 +1,12 @@
+
+Basic Practice 
+
+http://codingbat.com/python
+
+More Mathematical (and Harder) Practice:
+
+https://projecteuler.net/archives
+
+List of Practice Problems:
+
+http://www.codeabbey.com/index/task_list
